@@ -13,3 +13,4 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
+![Snake animation](https://github.com/henriquearraes/henriquearraes/blob/output/github-contribution-grid-snake.svg)
