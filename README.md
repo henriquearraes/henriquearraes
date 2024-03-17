@@ -24,8 +24,7 @@
       <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquearraes&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
    </div>
 </div>
-     
-## 🚀Tecnologias que eu uso no meu dia 
+## 
 <div style="display:inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
