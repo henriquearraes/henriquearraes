@@ -12,7 +12,7 @@
 
 📫 Você pode entrar em contato comigo através do meu email ou me encontrar no LinkedIn.
 
-## 
+##
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rickarraes)
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-meneg-7a26792b0/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquemeneg18@gmail.com)
@@ -24,7 +24,9 @@
       <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquearraes&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
    </div>
 </div>
+
 ## 
+
 <div style="display:inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
