@@ -2,13 +2,13 @@
 
 🚀 Programador iniciante em Java, apaixonado por tecnologia e entusiasta em constante aprendizado.
 
-💻 Atualmente, estou embarcando na jornada de explorar o vasto mundo da programação, com foco principal em Java. Estou buscando absorver o máximo de conhecimento possível, desde os conceitos fundamentais até as práticas mais avançadas.
+Atualmente estou embarcando na jornada de explorar o vasto mundo da programação, com foco principal em Java. Estou buscando absorver o máximo de conhecimento possível, desde os conceitos fundamentais até as práticas mais avançadas.
 
-📚 Acredito que o aprendizado é uma jornada contínua e estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e aprimorar minhas habilidades de programação.
+Acredito que o aprendizado é uma jornada contínua e estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e aprimorar minhas habilidades de programação.
 
-🌱 Estou aberto a colaborações, sugestões e feedbacks de colegas desenvolvedores. Acredito que compartilhar conhecimento é fundamental para o crescimento tanto pessoal quanto profissional.
+Estou aberto a colaborações, sugestões e feedbacks de colegas desenvolvedores. Acredito que compartilhar conhecimento é fundamental para o crescimento tanto pessoal quanto profissional.
 
-🎯 Meus objetivos incluem contribuir para projetos de código aberto, desenvolver aplicações que possam impactar positivamente a vida das pessoas e me tornar um programador habilidoso e versátil.
+Meus objetivos incluem contribuir para projetos de código aberto, desenvolver aplicações que possam impactar positivamente a vida das pessoas.
 
 📫 Você pode entrar em contato comigo através do meu email ou me encontrar no LinkedIn.
 
