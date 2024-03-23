@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Henrique Arraes.
 
-🚀 Programador iniciante em Java, apaixonado por tecnologia e entusiasta em constante aprendizado.
+🚀 Programador iniciante em Java em constante evolução
 
 Atualmente estou embarcando na jornada de explorar o vasto mundo da programação, com foco principal em Java. Estou buscando absorver o máximo de conhecimento possível, desde os conceitos fundamentais até as práticas mais avançadas.
 
