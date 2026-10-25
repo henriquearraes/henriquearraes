@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Henrique Arraes.
+## 👋 Olá, eu sou Henrique Meneg.
 
 🚀 Programador iniciante em Java em constante evolução
 
