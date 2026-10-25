@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Henrique Meneg.
 
-🚀 Programador iniciante em Java em constante evolução
+🚀 Programador Java em constante evolução
 
 Atualmente estou embarcando na jornada de explorar o vasto mundo da programação, com foco principal em Java. Estou buscando absorver o máximo de conhecimento possível, desde os conceitos fundamentais até as práticas mais avançadas.
 
